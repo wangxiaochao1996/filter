@@ -1,15 +1,20 @@
 payload:
  - DOMAIN-SUFFIX,goodisp.org,Emby // NMemby
+ - DOMAIN-SUFFIX,goodisp.org,Emby // NMemby
  - DOMAIN-SUFFIX,loseremby.org,Emby // 垃圾影音三网优化
- - DOMAIN-SUFFIX,de.xmsl.org,Emby // 垃圾影音直连
+ - DOMAIN-SUFFIX,xmsl.org,Emby // 垃圾影音直连
  - DOMAIN-SUFFIX,emby.mius.uk,Emby // 会员制emby
- - DOMAIN-SUFFIX,play.charontv.com,Emby // 卡戎
+ - DOMAIN-SUFFIX,emby.ooii.net,Emby // 会员制emby
+ - DOMAIN-SUFFIX,emby.jiecaoyu.cn,Emby // 会员制emby
+ - DOMAIN-SUFFIX,charontv.com,Emby // 卡戎
  - DOMAIN-SUFFIX,jmsooo.com,Emby // 卷毛鼠
  - DOMAIN-SUFFIX,embyplus.org,Emby // 纸片人
  - DOMAIN-SUFFIX,9wfree.emby.eu.org,Emby // 星光
- - DOMAIN-SUFFIX,emby.imetyou.top,Emby // paul
+ - DOMAIN-SUFFIX,free.emby.eu.org,Emby // 星光
+ - DOMAIN-SUFFIX,imetyou.top,Emby // paul
  - DOMAIN-SUFFIX,789.123456.al,Emby // 树状图
  - DOMAIN-SUFFIX,1.mgl.gay,Emby // 莫高雷
- - DOMAIN-SUFFIX,cc.ccemby.tk,Emby // ccemby
- - DOMAIN-SUFFIX,play.acemby.org,Emby // aceemby
- - DOMAIN-SUFFIX,emby.misakaf.org,Emby // misakaf
+ - DOMAIN-SUFFIX,ccemby.tk,Emby // ccemby
+ - DOMAIN-SUFFIX,acemby.org,Emby // aceemby
+ - DOMAIN-SUFFIX,misakaf.org,Emby // misakaf
+ - DOMAIN-SUFFIX,tank66.top,Emby // misakaf
