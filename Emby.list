@@ -1,64 +1,38 @@
-# NMemby
-DOMAIN-SUFFIX,loseremby.org 
-#// 垃圾影音三网优化
-DOMAIN-SUFFIX,xmsl.or 
-#// 垃圾影音直连
-DOMAIN-SUFFIX,emby.mius.uk 
-#// 会员制emby
-DOMAIN-SUFFIX,emby.ooii.net 
-#// 会员制emby
-DOMAIN-SUFFIX,emby.jiecaoyu.cn 
-#// 会员制emby
-DOMAIN-SUFFIX,charontv.com
-# // 卡戎
-DOMAIN-SUFFIX,jmsooo.com 
-#// 卷毛鼠
-DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,jms1.emby.pro
-# // 纸片人
-DOMAIN-SUFFIX,9wfree.emby.eu.org 
-#// 星光
-DOMAIN-SUFFIX,free.emby.eu.org 
-#// 星光2
-DOMAIN-SUFFIX,imetyou.top 
-#// paul
-DOMAIN-SUFFIX,789.123456.al 
-#// 树状图
-DOMAIN-SUFFIX,1.mgl.gay 
-#// 莫高雷
-DOMAIN-SUFFIX,ccemby.tk 
-#// ccemby
-DOMAIN-SUFFIX,acemby.org 
-#// aceemby
-DOMAIN-SUFFIX,misakaf.org 
-#// misakaf
-DOMAIN-SUFFIX,tank66.top 
-#// misakaf
-DOMAIN-SUFFIX,embymv.tk 
-#// 🍑桃子
+# ACA & MisakaF
+DOMAIN-SUFFIX,emby.aca.best
+DOMAIN-SUFFIX,porn.aca.best
+# 垃圾影音
+DOMAIN-SUFFIX,xmsl.org
+# PiliPili 
 DOMAIN-SUFFIX,pilipiliultra.top
 DOMAIN-SUFFIX,pilipiliultra.com
-DOMAIN-SUFFIX,pilipili.mikuu.link
-#// Pili
-DOMAIN-SUFFIX,mjjemby.org 
-#// Mjj
-DOMAIN-SUFFIX,singularity.deja-vu.beauty 
-#// singularity
-DOMAIN-SUFFIX,public.emby.ws 
-#// Dolphin
-DOMAIN-SUFFIX,https://film.goodisp.org 
-#// Nmemby
-DOMAIN-SUFFIX,emby.agon.cf 
-#//私人影院
-DOMAIN-SUFFIX,zi0.icu 
-#//紫菱
-DOMAIN-SUFFIX,emby3.mcjoker.xyz 
-#//叔服1
-DOMAIN-SUFFIX,ju.dog
-#//剧狗
-DOMAIN-SUFFIX,infinityfly.top
-#//infinity
-DOMAIN-SUFFIX,emby.aca.best
-#//ACA
-DOMAIN-SUFFIX,porn.aca.best
-#//ACA PORN
+# 纸片人
+DOMAIN-SUFFIX,embyplus.org
+# jmsooo
+DOMAIN-SUFFIX,agahk1.jmsooo.com
+DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,agajp1.jmsooo.com
+DOMAIN-SUFFIX,aws.jmsooo.com
+DOMAIN-SUFFIX,ntt1.jmsooo.com
+DOMAIN-SUFFIX,hinet.jmsooo.com
+DOMAIN-SUFFIX,cf1.jmsooo.com
+# 桃子
+DOMAIN-SUFFIX,embymv.tk
+# ccemby
+DOMAIN,cc.coemn.com
+DOMAIN-SUFFIX,cc.ccemby.tk
+DOMAIN-SUFFIX,carryz.net
+# mjjemby
+DOMAIN-SUFFIX,mjjemby.org
+# ntRRR
+DOMAIN-SUFFIX,ntrrr.am.sb
+DOMAIN-SUFFIX,stream.synn.cc
+DOMAIN-SUFFIX,stream.ntrrr.top
+# 叔服
+DOMAIN-SUFFIX,mcjoker.xyz
+# Temby
+DOMAIN-SUFFIX,285286.xyz
+# 琴鸟
+DOMAIN-SUFFIX,lyrebirdemby.com
+# StarCat
+DOMAIN-SUFFIX,catlinks.co.uk
